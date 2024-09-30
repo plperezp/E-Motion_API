@@ -875,7 +875,7 @@
     {
       "id": "0120",
       "title": "The Haunting of Hill House",
-      "year": 1959,
+      "year": "1975",
       "genre": "horror",
       "URL": "https://m.media-amazon.com/images/I/71p0Vkd6XlL._AC_UF894,1000_QL80_.jpg",
       "length": 182,
@@ -955,6 +955,30 @@
       "isFavorite": false,
       "type": "movie",
       "id": "4hkg3fK"
+    },
+    {
+      "title": "2023",
+      "year": "2023",
+      "genre": "pop",
+      "url": "",
+      "length": "120",
+      "moodId": 0,
+      "rating": null,
+      "isFavorite": false,
+      "type": "",
+      "id": "2AyCBrZ"
+    },
+    {
+      "title": "2023",
+      "year": "1200",
+      "genre": "pop",
+      "url": "",
+      "length": "120",
+      "moodId": 0,
+      "rating": null,
+      "isFavorite": false,
+      "type": "",
+      "id": "OtPArJs"
     }
   ],
   "travelPlans": [
