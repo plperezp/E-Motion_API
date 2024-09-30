@@ -948,30 +948,6 @@
       "rating": null,
       "isFavorite": false,
       "type": "book"
-    },
-    {
-      "title": "The Hangover Part II",
-      "year": 2011,
-      "genre": "comedy",
-      "URL": "https://www.themoviedb.org/movie/45243-the-hangover-part-ii/images/posters",
-      "length": 102,
-      "moodId": "happy",
-      "rating": null,
-      "isFavorite": false,
-      "type": "movie",
-      "id": "4hkg3fK"
-    },
-    {
-      "title": "",
-      "year": 0,
-      "genre": "",
-      "url": "",
-      "length": 0,
-      "moodId": 0,
-      "rating": null,
-      "isFavorite": false,
-      "type": "",
-      "id": "CnGMnVy"
     }
   ],
   "travelPlans": [
