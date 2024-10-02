@@ -3,7 +3,7 @@
     {
       "id": "sad",
       "title": "Sad",
-      "color": "darkblue",
+      "color": "blue",
       "emoji": "😢",
       "message": "Hasta Batman tiene días malos!"
     },
@@ -24,7 +24,7 @@
     {
       "id": "scary",
       "title": "Scary",
-      "color": "darkpurple",
+      "color": "purple",
       "emoji": "😱",
       "message": "Quizá no estés solo..."
     },
@@ -106,7 +106,7 @@
       "length": 101,
       "moodId": "happy",
       "rating": null,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "movie"
     },
     {
@@ -634,7 +634,7 @@
       "length": 240,
       "moodId": "love",
       "rating": null,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "song"
     },
     {
@@ -706,7 +706,7 @@
       "length": 208,
       "moodId": "happy",
       "rating": null,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "book"
     },
     {
@@ -790,7 +790,7 @@
       "length": 328,
       "moodId": "rage",
       "rating": null,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "book"
     },
     {
@@ -922,7 +922,7 @@
       "length": 262,
       "moodId": "scary",
       "rating": null,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "book"
     },
     {
@@ -934,7 +934,7 @@
       "length": 447,
       "moodId": "scary",
       "rating": 5,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "book"
     },
     {
@@ -946,7 +946,7 @@
       "length": 244,
       "moodId": "sad",
       "rating": null,
-      "isFavorite": false,
+      "isFavorite": true,
       "type": "book"
     }
   ],
