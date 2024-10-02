@@ -46,8 +46,9 @@
       "length": 93,
       "moodId": "sad",
       "rating": null,
-      "isFavorite": false,
-      "type": "movie"
+      "isFavorite": true,
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/cFBbQaoa4Ms"
     },
     {
       "id": "0002",
@@ -59,7 +60,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/rxtGMH7OrLc"
     },
     {
       "id": "0003",
@@ -71,7 +73,9 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/BmkchuRJ82w"
+
     },
     {
       "id": "0004",
@@ -83,7 +87,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/e-Z062tRdbQ"
     },
     {
       "id": "0005",
@@ -95,7 +100,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/hBtSF4-cnzk"
     },
     {
       "id": "0006",
@@ -107,7 +113,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": true,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/DhP0P4q8jLk"
     },
     {
       "id": "0007",
@@ -119,7 +126,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/MckEHmSMg-0"
     },
     {
       "id": "0008",
@@ -131,7 +139,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/b8ht6ObDlyQ"
     },
     {
       "id": "0009",
@@ -143,7 +152,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/sqQHQ9PNV0Y"
     },
     {
       "id": "0010",
@@ -155,7 +165,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/9Pl4JNnqNaE"
     },
     {
       "id": "0011",
@@ -167,7 +178,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/1kOlrEwTfco"
     },
     {
       "id": "0012",
@@ -179,7 +191,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/yiPvtoNMRa4"
     },
     {
       "id": "0013",
@@ -191,7 +204,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/T-pmF5dJdT0"
     },
     {
       "id": "0014",
@@ -203,7 +217,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/Kn16QF0haA4"
     },
     {
       "id": "0015",
@@ -215,7 +230,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/XaoigWHOtBM"
     },
     {
       "id": "0016",
@@ -227,7 +243,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/7115nOKRFD8"
     },
     {
       "id": "0017",
@@ -239,7 +256,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/R8weLPF4qBQ"
     },
     {
       "id": "0018",
@@ -251,7 +269,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/Y3dH5bBt1sw"
     },
     {
       "id": "0019",
@@ -263,7 +282,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/zpaIwmlqex0"
     },
     {
       "id": "0020",
@@ -275,7 +295,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/_vJltamBoy8"
     },
     {
       "id": "0021",
@@ -287,7 +308,9 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/fwlmQ3PCZ9g"
+
     },
     {
       "id": "0022",
@@ -299,7 +322,9 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/ttjJb9jSJtM"
+      
     },
     {
       "id": "0023",
@@ -311,7 +336,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/45s24h98iOc"
     },
     {
       "id": "0024",
@@ -323,7 +349,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/CHekzSiZjrY"
     },
     {
       "id": "0025",
@@ -335,7 +362,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "movie"
+      "type": "movie",
+      "youtube":"https://www.youtube.com/embed/6oAe6QW4hdE"
     },
     {
       "title": "Dos Tontos muy Tontos",
@@ -347,7 +375,8 @@
       "rating": null,
       "isFavorite": false,
       "type": "movie",
-      "id": "YozOH6F"
+      "id": "YozOH6F",
+      "youtube":"https://www.youtube.com/embed/668B7kAf-d8"
     },
     {
       "id": "0026",
@@ -359,7 +388,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/ojdbDYahiCQ"
     },
     {
       "id": "0027",
@@ -371,7 +401,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/hLQl3WQQoQ0"
     },
     {
       "id": "0028",
@@ -383,7 +414,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/XFkzRNyygfk"
     },
     {
       "id": "0029",
@@ -395,7 +427,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/8AHCfZTRGiI"
     },
     {
       "id": "0030",
@@ -407,7 +440,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/k4V3Mo61fJM"
     },
     {
       "id": "0031",
@@ -419,7 +453,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/ZbZSe6N_BXs"
     },
     {
       "id": "0032",
@@ -431,7 +466,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/OPf0YbXqDm0"
     },
     {
       "id": "0033",
@@ -443,7 +479,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/ru0K8uYEZWw"
     },
     {
       "id": "0034",
@@ -455,7 +492,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/iPUmE-tne5U"
     },
     {
       "id": "0035",
@@ -467,7 +505,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/apBWI6xrbLY"
     },
     {
       "id": "0036",
@@ -479,7 +518,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/4V90AmXnguw"
     },
     {
       "id": "0037",
@@ -491,7 +531,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/7YvAYIJSSZY"
     },
     {
       "id": "0038",
@@ -503,7 +544,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/Fe93CLbHjxQ"
     },
     {
       "id": "0039",
@@ -515,7 +557,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/E1mU6h4Xdxc"
     },
     {
       "id": "0040",
@@ -527,7 +570,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/HUHC9tYz8ik"
     },
     {
       "id": "0041",
@@ -539,7 +583,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/bWXazVhlyxQ"
     },
     {
       "id": "0042",
@@ -551,7 +596,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/ZpUYjpKg9KY"
     },
     {
       "id": "0043",
@@ -563,7 +609,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/3L4YrGaR8E4"
     },
     {
       "id": "0044",
@@ -575,7 +622,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/pc0mxOXbWIU"
     },
     {
       "id": "0045",
@@ -587,7 +635,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/hTWKbfoikeg"
     },
     {
       "id": "0046",
@@ -599,7 +648,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/450p7goxZqg"
     },
     {
       "id": "0047",
@@ -611,7 +661,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/2Vv-BfVoq4g"
     },
     {
       "id": "0048",
@@ -623,7 +674,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/3JWTaaS7LdU"
     },
     {
       "id": "0049",
@@ -635,7 +687,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": true,
-      "type": "song"
+      "type": "song",
+       "youtube":"https://www.youtube.com/embed/GlPlfCy1urI"
     },
     {
       "id": "0050",
@@ -647,7 +700,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "song"
+      "type": "song",
+      "youtube":"https://www.youtube.com/embed/1qJU8G7gR_g"
     },
     {
       "id": "0101",
@@ -659,7 +713,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/SbRRbPFe2VI"
     },
     {
       "id": "0102",
@@ -671,7 +726,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/rvFzKW8I60o"
     },
     {
       "id": "0103",
@@ -683,7 +739,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/nKTpnoaijZ0"
     },
     {
       "id": "0104",
@@ -695,7 +752,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/xYyRkHfBizg"
     },
     {
       "id": "0105",
@@ -707,7 +765,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": true,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/a9cpb3mfF2I"
     },
     {
       "id": "0106",
@@ -719,7 +778,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/Heo96fQPtc0"
     },
     {
       "id": "0107",
@@ -731,7 +791,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/STHkJqnJfO0"
     },
     {
       "id": "0108",
@@ -743,7 +804,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/UHnnArC7Paw"
     },
     {
       "id": "0109",
@@ -755,7 +817,8 @@
       "moodId": "happy",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/NKUDyoMrw"
     },
     {
       "id": "0110",
@@ -767,7 +830,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/ot74dEJKADg"
     },
     {
       "id": "0111",
@@ -779,7 +843,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "books"
+      "type": "books",
+      "youtube":"https://www.youtube.com/embed/l3rbHksREaE"
     },
     {
       "id": "0112",
@@ -791,7 +856,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": true,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/bgc72JWfBcg"
     },
     {
       "id": "0113",
@@ -803,7 +869,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/JTYNwFkjCtA"
     },
     {
       "id": "0114",
@@ -815,7 +882,8 @@
       "moodId": "rage",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/JirN6tDYy9k"
     },
     {
       "id": "0115",
@@ -827,7 +895,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/tVnFnvGQLdY"
     },
     {
       "id": "0116",
@@ -839,7 +908,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/Sm9eLsiOkXo"
     },
     {
       "id": "0117",
@@ -851,7 +921,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/O68h9Yz4dkY"
     },
     {
       "id": "0118",
@@ -863,7 +934,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/goRhuHj7h1Q"
     },
     {
       "id": "0119",
@@ -875,7 +947,8 @@
       "moodId": "love",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/Ut62QcX9-ow"
     },
     {
       "id": "0120",
@@ -887,7 +960,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/E1G6ZoNELKA"
     },
     {
       "id": "0121",
@@ -899,7 +973,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/JcfffzyL-hA"
     },
     {
       "id": "0122",
@@ -911,7 +986,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": false,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/BoAZN-jrhlY"
     },
     {
       "id": "0123",
@@ -923,7 +999,8 @@
       "moodId": "scary",
       "rating": null,
       "isFavorite": true,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/hGPzxWdZ3Sk"
     },
     {
       "id": "0124",
@@ -935,7 +1012,8 @@
       "moodId": "scary",
       "rating": 5,
       "isFavorite": true,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/bhAINwaEouM"
     },
     {
       "id": "0125",
@@ -947,7 +1025,8 @@
       "moodId": "sad",
       "rating": null,
       "isFavorite": true,
-      "type": "book"
+      "type": "book",
+      "youtube":"https://www.youtube.com/embed/jT4Ih4sUmqQ"
     }
   ],
   "travelPlans": [
