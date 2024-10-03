@@ -45,7 +45,7 @@
       "URL": "https://image.tmdb.org/t/p/original/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
       "length": 93,
       "moodId": "sad",
-      "rating": null,
+      "rating": 5,
       "isFavorite": true,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/cFBbQaoa4Ms"
@@ -58,8 +58,8 @@
       "URL": "https://image.tmdb.org/t/p/original/qF6JFr6IdfNep0x6yw3i7S8avAb.jpg",
       "length": 117,
       "moodId": "sad",
-      "rating": null,
-      "isFavorite": false,
+      "rating": 5,
+      "isFavorite": true,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/rxtGMH7OrLc"
     },
@@ -71,7 +71,7 @@
       "URL": "https://image.tmdb.org/t/p/original/xnvHaMFNXzemoH4uXHDMtKnpF7l.jpg",
       "length": 195,
       "moodId": "sad",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/BmkchuRJ82w"
@@ -84,7 +84,7 @@
       "URL": "https://image.tmdb.org/t/p/original/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg",
       "length": 116,
       "moodId": "sad",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/e-Z062tRdbQ"
@@ -97,7 +97,7 @@
       "URL": "https://image.tmdb.org/t/p/original/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
       "length": 189,
       "moodId": "sad",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/hBtSF4-cnzk"
@@ -110,7 +110,7 @@
       "URL": "https://image.tmdb.org/t/p/original/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
       "length": 101,
       "moodId": "happy",
-      "rating": null,
+      "rating": 5,
       "isFavorite": true,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/DhP0P4q8jLk"
@@ -123,7 +123,7 @@
       "URL": "https://image.tmdb.org/t/p/original/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
       "length": 100,
       "moodId": "happy",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/MckEHmSMg-0"
@@ -136,7 +136,7 @@
       "URL": "https://image.tmdb.org/t/p/original/ftUDFRYywWzajElI2RT9NIno2PS.jpg",
       "length": 113,
       "moodId": "happy",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/b8ht6ObDlyQ"
@@ -149,7 +149,7 @@
       "URL": "https://image.tmdb.org/t/p/original/j8ZRAOctUiw7YzrQGuyCRIAJPIW.jpg",
       "length": 101,
       "moodId": "happy",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/sqQHQ9PNV0Y"
@@ -162,7 +162,7 @@
       "URL": "https://image.tmdb.org/t/p/original/peqE27MjHQJIMS858WJrovKkEVl.jpg",
       "length": 107,
       "moodId": "happy",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/9Pl4JNnqNaE"
@@ -175,7 +175,7 @@
       "URL": "https://image.tmdb.org/t/p/original/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
       "length": 112,
       "moodId": "scary",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/1kOlrEwTfco"
@@ -188,7 +188,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCVCaO5pCXChfXbTcqEqeyj2z9N.jpg",
       "length": 127,
       "moodId": "scary",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/yiPvtoNMRa4"
@@ -201,7 +201,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg",
       "length": 104,
       "moodId": "scary",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/T-pmF5dJdT0"
@@ -214,8 +214,8 @@
       "URL": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
       "length": 100,
       "moodId": "scary",
-      "rating": null,
-      "isFavorite": false,
+      "rating": 3,
+      "isFavorite": true,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/Kn16QF0haA4"
     },
@@ -227,7 +227,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg",
       "length": 90,
       "moodId": "scary",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/XaoigWHOtBM"
@@ -240,7 +240,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4VDOA4vUxzrGnZfOAiDK2EClER.jpg",
       "length": 116,
       "moodId": "rage",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/7115nOKRFD8"
@@ -253,7 +253,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdXbDP9TP6QkvuNAvZtCCenqLdM.jpg",
       "length": 120,
       "moodId": "rage",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/R8weLPF4qBQ"
@@ -266,7 +266,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
       "length": 169,
       "moodId": "rage",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/Y3dH5bBt1sw"
@@ -279,8 +279,8 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg",
       "length": 119,
       "moodId": "rage",
-      "rating": null,
-      "isFavorite": false,
+      "rating": 4,
+      "isFavorite": true,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/zpaIwmlqex0"
     },
@@ -292,7 +292,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
       "length": 144,
       "moodId": "rage",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/_vJltamBoy8"
@@ -305,7 +305,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpYGO4BC1EGy5strj15xy1vB3jP.jpg",
       "length": 123,
       "moodId": "love",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/fwlmQ3PCZ9g"
@@ -318,7 +318,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
       "length": 129,
       "moodId": "love",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/ttjJb9jSJtM"
@@ -331,7 +331,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhIJgL2l4riAfHOSFt2Z58gT9tK.jpg",
       "length": 128,
       "moodId": "love",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/45s24h98iOc"
@@ -344,7 +344,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
       "length": 195,
       "moodId": "love",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/CHekzSiZjrY"
@@ -357,7 +357,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uw9vx5M0qwkU1QnBNG4CXCgwYB3.jpg",
       "length": 101,
       "moodId": "love",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/6oAe6QW4hdE"
@@ -369,7 +369,7 @@
       "URL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z8qsIw3c8YFPXu1MbAeNHehZJw.jpg",
       "length": 107,
       "moodId": "happy",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "movie",
       "id": "YozOH6F",
@@ -383,7 +383,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52",
       "length": 205,
       "moodId": "sad",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/ojdbDYahiCQ"
@@ -396,7 +396,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273744ea41a7c1ae57024752db9",
       "length": 285,
       "moodId": "sad",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/hLQl3WQQoQ0"
@@ -409,7 +409,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95",
       "length": 238,
       "moodId": "sad",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/XFkzRNyygfk"
@@ -422,7 +422,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2737af91211211f1aab89014dbb",
       "length": 217,
       "moodId": "sad",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/8AHCfZTRGiI"
@@ -435,7 +435,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651",
       "length": 295,
       "moodId": "sad",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/k4V3Mo61fJM"
@@ -448,7 +448,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273223c7e6520f0136c5d21733b",
       "length": 233,
       "moodId": "happy",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/ZbZSe6N_BXs"
@@ -461,7 +461,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2",
       "length": 269,
       "moodId": "happy",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/OPf0YbXqDm0"
@@ -474,7 +474,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b27389f2fbf0217c9630425a3ca3",
       "length": 233,
       "moodId": "happy",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/ru0K8uYEZWw"
@@ -487,7 +487,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273a8fb517cc3146cc77d265fe4",
       "length": 218,
       "moodId": "happy",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/iPUmE-tne5U"
@@ -500,7 +500,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2737d1cf8f1248fe22f8d15a083",
       "length": 210,
       "moodId": "happy",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/apBWI6xrbLY"
@@ -513,7 +513,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
       "length": 357,
       "moodId": "scary",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/4V90AmXnguw"
@@ -526,7 +526,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2734ff3e97b8f4970f19308ff73",
       "length": 239,
       "moodId": "scary",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/7YvAYIJSSZY"
@@ -539,7 +539,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273cd05922355b9f5c85b0a66fc",
       "length": 241,
       "moodId": "scary",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/Fe93CLbHjxQ"
@@ -552,7 +552,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273d202286ca6f2465acadc21fc",
       "length": 238,
       "moodId": "scary",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/E1mU6h4Xdxc"
@@ -565,7 +565,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2733ce730c58a503c27c565ce3d",
       "length": 195,
       "moodId": "scary",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/HUHC9tYz8ik"
@@ -578,7 +578,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
       "length": 327,
       "moodId": "rage",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/bWXazVhlyxQ"
@@ -591,7 +591,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
       "length": 212,
       "moodId": "rage",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/ZpUYjpKg9KY"
@@ -604,7 +604,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273053f006079bce979e5fef1e1",
       "length": 245,
       "moodId": "rage",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/3L4YrGaR8E4"
@@ -617,7 +617,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273c01c9c05601f22060d3a1346",
       "length": 235,
       "moodId": "rage",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/pc0mxOXbWIU"
@@ -630,7 +630,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "length": 301,
       "moodId": "rage",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/hTWKbfoikeg"
@@ -643,7 +643,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78",
       "length": 269,
       "moodId": "love",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/450p7goxZqg"
@@ -656,7 +656,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273af6b2fca3b6e24612a5fe5d8",
       "length": 263,
       "moodId": "love",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/2Vv-BfVoq4g"
@@ -669,7 +669,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b2730cd9eea56f25926dcfad0e27",
       "length": 273,
       "moodId": "love",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/3JWTaaS7LdU"
@@ -682,7 +682,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273c14fe67e92000fc0ce11de2f",
       "length": 240,
       "moodId": "love",
-      "rating": null,
+      "rating": 3,
       "isFavorite": true,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/GlPlfCy1urI"
@@ -695,7 +695,7 @@
       "URL": "https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624",
       "length": 188,
       "moodId": "love",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "song",
       "youtube": "https://www.youtube.com/embed/1qJU8G7gR_g"
@@ -708,7 +708,7 @@
       "URL": "https://m.media-amazon.com/images/I/71Vh4lfd5FL._AC_UF894,1000_QL80_.jpg",
       "length": 720,
       "moodId": "sad",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/SbRRbPFe2VI"
@@ -721,7 +721,7 @@
       "URL": "https://m.media-amazon.com/images/I/81yTR5tlhEL._AC_UF894,1000_QL80_.jpg",
       "length": 288,
       "moodId": "sad",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/rvFzKW8I60o"
@@ -734,7 +734,7 @@
       "URL": "https://m.media-amazon.com/images/I/61gq65lOUQL._AC_UF894,1000_QL80_.jpg",
       "length": 313,
       "moodId": "sad",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/nKTpnoaijZ0"
@@ -747,7 +747,7 @@
       "URL": "https://m.media-amazon.com/images/I/914cHl9v7oL._AC_UF894,1000_QL80_.jpg",
       "length": 584,
       "moodId": "sad",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/xYyRkHfBizg"
@@ -760,7 +760,7 @@
       "URL": "https://m.media-amazon.com/images/I/71ihItT72KL._AC_UF894,1000_QL80_.jpg",
       "length": 208,
       "moodId": "happy",
-      "rating": null,
+      "rating": 2,
       "isFavorite": true,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/a9cpb3mfF2I"
@@ -773,7 +773,7 @@
       "URL": "https://m.media-amazon.com/images/I/81K-R6fQejL._UF1000,1000_QL80_.jpg",
       "length": 375,
       "moodId": "happy",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/Heo96fQPtc0"
@@ -786,7 +786,7 @@
       "URL": "https://m.media-amazon.com/images/I/71N-azSZ7qL._AC_UF894,1000_QL80_.jpg",
       "length": 320,
       "moodId": "happy",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/STHkJqnJfO0"
@@ -799,7 +799,7 @@
       "URL": "https://m.media-amazon.com/images/I/81mveBdSLvL._AC_UF894,1000_QL80_.jpg",
       "length": 390,
       "moodId": "happy",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/UHnnArC7Paw"
@@ -812,7 +812,7 @@
       "URL": "https://m.media-amazon.com/images/I/71-x7qbKmCL._AC_UF894,1000_QL80_.jpg",
       "length": 295,
       "moodId": "happy",
-      "rating": null,
+      "rating": 6,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/NKUDyoMrw"
@@ -825,7 +825,7 @@
       "URL": "https://m.media-amazon.com/images/I/8125BDk3l9L._AC_UF894,1000_QL80_.jpg",
       "length": 277,
       "moodId": "rage",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/ot74dEJKADg"
@@ -838,7 +838,7 @@
       "URL": "https://m.media-amazon.com/images/I/61KPeS9bw+L._AC_UF894,1000_QL80_.jpg",
       "length": 208,
       "moodId": "rage",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "books",
       "youtube": "https://www.youtube.com/embed/l3rbHksREaE"
@@ -851,7 +851,7 @@
       "URL": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF894,1000_QL80_.jpg",
       "length": 328,
       "moodId": "rage",
-      "rating": null,
+      "rating": 3,
       "isFavorite": true,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/bgc72JWfBcg"
@@ -864,7 +864,7 @@
       "URL": "https://m.media-amazon.com/images/I/91bwHfPx-SL._AC_UF894,1000_QL80_.jpg",
       "length": 287,
       "moodId": "rage",
-      "rating": null,
+      "rating": 1,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/JTYNwFkjCtA"
@@ -877,7 +877,7 @@
       "URL": "https://m.media-amazon.com/images/I/71PirX6+i8L._AC_UF894,1000_QL80_.jpg",
       "length": 399,
       "moodId": "rage",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/JirN6tDYy9k"
@@ -890,7 +890,7 @@
       "URL": "https://m.media-amazon.com/images/I/71CR-BOauCL._AC_UF894,1000_QL80_.jpg",
       "length": 432,
       "moodId": "love",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/tVnFnvGQLdY"
@@ -903,7 +903,7 @@
       "URL": "https://m.media-amazon.com/images/I/81WIhP1ca9L._AC_UF894,1000_QL80_.jpg",
       "length": 214,
       "moodId": "love",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/Sm9eLsiOkXo"
@@ -916,7 +916,7 @@
       "URL": "https://m.media-amazon.com/images/I/61yk+NL+u9L._AC_UF894,1000_QL80_.jpg",
       "length": 369,
       "moodId": "love",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/O68h9Yz4dkY"
@@ -929,7 +929,7 @@
       "URL": "https://m.media-amazon.com/images/I/71Ka17Z921L._AC_UF894,1000_QL80_.jpg",
       "length": 546,
       "moodId": "love",
-      "rating": null,
+      "rating": 5,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/goRhuHj7h1Q"
@@ -942,7 +942,7 @@
       "URL": "https://m.media-amazon.com/images/I/81QoHR-qdJL._AC_UF894,1000_QL80_.jpg",
       "length": 248,
       "moodId": "love",
-      "rating": null,
+      "rating": 2,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/Ut62QcX9-ow"
@@ -955,7 +955,7 @@
       "URL": "https://m.media-amazon.com/images/I/71p0Vkd6XlL._AC_UF894,1000_QL80_.jpg",
       "length": 182,
       "moodId": "scary",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/E1G6ZoNELKA"
@@ -968,7 +968,7 @@
       "URL": "https://m.media-amazon.com/images/I/61TqVMQ6jKL._AC_UF894,1000_QL80_.jpg",
       "length": 418,
       "moodId": "scary",
-      "rating": null,
+      "rating": 4,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/JcfffzyL-hA"
@@ -981,7 +981,7 @@
       "URL": "https://m.media-amazon.com/images/I/71ZIovNjw+L._AC_UF894,1000_QL80_.jpg",
       "length": 1138,
       "moodId": "scary",
-      "rating": null,
+      "rating": 3,
       "isFavorite": false,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/BoAZN-jrhlY"
@@ -994,7 +994,7 @@
       "URL": "https://m.media-amazon.com/images/I/81emdVIJjoL._AC_UF894,1000_QL80_.jpg",
       "length": 262,
       "moodId": "scary",
-      "rating": null,
+      "rating": 2,
       "isFavorite": true,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/hGPzxWdZ3Sk"
@@ -1020,7 +1020,7 @@
       "URL": "https://m.media-amazon.com/images/I/81wUVpREPSL._AC_UF894,1000_QL80_.jpg",
       "length": 244,
       "moodId": "sad",
-      "rating": null,
+      "rating": 4,
       "isFavorite": true,
       "type": "book",
       "youtube": "https://www.youtube.com/embed/jT4Ih4sUmqQ"
