@@ -280,7 +280,7 @@
       "length": 119,
       "moodId": "rage",
       "rating": 4,
-      "isFavorite": true,
+      "isFavorite": false,
       "type": "movie",
       "youtube": "https://www.youtube.com/embed/zpaIwmlqex0"
     },
