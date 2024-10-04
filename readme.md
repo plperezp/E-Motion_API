@@ -87,4 +87,4 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 
 ### Slides
 
-[Slides Link](www.your-slides-url-here.com)
+[Slides Link](https://docs.google.com/presentation/d/1qQNol8fllfdOT1e0SSSevsHNn8Da3T2BIPFJ6czS1nI/edit?usp=sharing)
