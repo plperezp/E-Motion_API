@@ -61,31 +61,29 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 | GET         | `/sentences`                |                              | Returns an array of all sentences                              |
 | GET         | `/sentences/:sentenceId`    |                              | Sends all details of a sentence                                |
 | POST        | `/items`                    | {title, year, genre , url, length, moodId,rating,isFavorite, type, youtube}  | Create a new item                                            |
-| DELETE      | `/games/:gameId`            |                              | Deletes a game object                                          |
-| GET         | `/reviews`                  |                              | Sends all reviews                                              |
-| POST        | `/reviews`                  | {text, gameId}               | Creates a new review                                           |
-| PATCH       | `/reviews`                | {text, gameId}               | Edits a review                                                 |
-| PATCH       | `/games/:gameId`            | {isFav}                      | Adds game to favourite                                         |
+| PATCH       | `/itemS/:itemId`             | {title, year, genre , url, length, moodId,rating,isFavorite, type, youtube}                             | Edits a item                                          |
+| DELETE      | `/itemS/:itemId`            |                              | Delete a review                                                |
+| GET         | `/moods/:moodId?_embed=items`|             | Return a single mood and all their items                                        |
+| GET         | `/items/?isFavorite=true`                |               | Returns an array of favorite items                                                 |
+
  
 ## Links
 
 ### Collaborators
 
-[Developer 1 name](www.github-url.com)
+[Pedro Perez](https://github.com/plperezp)
 
-[Developer 2 name](www.github-url.com)
+[David Carballo](https://github.com/David-Carballo)
 
 ### Project
 
-[Repository Link Client](www.your-github-url-here.com)
+[Repository Link Client](https://github.com/David-Carballo/e-motion)
 
-[Repository Link Server](www.your-github-url-here.com)
+[Repository Link Server](https://github.com/plperezp/E-Motion_API)
 
-[Deploy Link](www.your-deploy-url-here.com)
+[Deploy Link](https://e-motion-app.netlify.app/)
 
-### Trello
 
-[Link to your trello board](www.your-trello-url-here.com)
 
 ### Slides
 
